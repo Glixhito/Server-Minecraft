@@ -256,10 +256,10 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENS
 
 Si tienes preguntas o sugerencias, no dudes en contactarnos:
 
-- Email: [tu@email.com]
-- GitHub: [tu-usuario]
+- Email: [xxxx]
+- GitHub: [@Glixhito]
 
 ---
 
-Desarrollado con ❤ para la comunidad de Minecraft.
+Desarrollado con ❤ para la comunidad de Minecraft y mis amigos.
 
